@@ -1,0 +1,6 @@
+{
+  "name": "ArborTrace",
+  "description": "Bioluminescent code archaeology graph visualizer for Git histories and static code architecture.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
